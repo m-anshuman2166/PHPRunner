@@ -3,7 +3,7 @@
           package="ua.naiksoftware.phprunner"
           android:versionCode="20"
           android:versionName="2.71"
-		  android:installLocation="preferExternal">
+	  android:requestLegacyExternalStorage="true">
     
     <uses-sdk 
         android:minSdkVersion="10"
